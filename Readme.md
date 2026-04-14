@@ -1,6 +1,6 @@
 # Личный проект «{{projectTitle}}»
 
-* Студент: [{{userName}}]({{userProfile}}).
+* Студент: [Игорь Ерохин](https://htmlacademy.ru/profile/id880991).
 * Наставник: `Неизвестно`.
 
 ---
